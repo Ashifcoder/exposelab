@@ -1,0 +1,1 @@
+cp C:\vagrant\CoolScripts\delete.txt C:\windows\Temp\
