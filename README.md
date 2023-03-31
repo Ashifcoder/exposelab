@@ -1,3 +1,5 @@
+# Exporse Lab: Automated Active Directory Lab + Mini CTF Inside!
+
 <img src="exposelab.png">
 
 ## Lab Overview 💻
@@ -79,10 +81,17 @@ rgl/windows-server-2019-standard-amd64
 rgl/windows-10-1809-enterprise-amd64
 ```
 
-## Step by step tutorial
+## Video Tutorial 📹
 
-my youtube link  :)  ==TO EDIT!=== 
-https://www.youtube.com/@securityjourneywithashif/
+1. Step by Step Installaion of the lab + code Explatation
+
+🔗 https://youtu.be/zx4pJ2XewYo 
+
+
+2. Solving the Mini CTF Challange!
+
+🔗 https://youtu.be/d3QFLLOqefo
+
 
 Making the lab
 
@@ -137,8 +146,14 @@ Remove-LocalUser -Name 'vagrant'
 
 ```
 
+### To remove the virtualBox Boxes
+
+```sh
+vagrant destroy 
+```
+
 ---
-##### Troubleshooting  ⚒
+## Troubleshooting  ⚒
 
 Network  Troubleshooting
 
@@ -161,3 +176,16 @@ All the code provided on this repository is for educational/research purposes on
 
 <img src="gplv3-with-text-136x68.png">
 
+---
+
+## Honourable Mentions 
+
+- Video which inspried me : https://www.youtube.com/watch?v=HfOfbMXCQGM
+- The Auror Project : https://github.com/chr0n1k/Auror-Project
+- Website Landing page : https://github.com/Alanaktion/php-landing
+
+#### Amazing websites:
+- https://www.vagrantup.com
+- https://learn.microsoft.com
+- https://woshub.com
+- https://chocolatey.org
