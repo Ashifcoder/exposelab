@@ -1,4 +1,4 @@
-# Exporse Lab: Automated Active Directory Lab + Mini CTF Inside!
+# Expose Lab: Automated Active Directory Lab + Mini CTF Inside!
 
 <img src="exposelab.png">
 
