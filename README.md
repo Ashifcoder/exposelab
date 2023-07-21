@@ -4,8 +4,8 @@
 
 ## Lab Overview 💻
 
-This lab is theamed after TV series MR.Robot :)
-This is a  fully automated Active directory Lab made with the purpose to reduce the hustle of creating it manually. It uses Vagrant and Powershell Scripts to automate stuff.
+This lab is theamed after TV series Mr. Robot :)
+This is a fully automated Active directory Lab made with the purpose to reduce the hustle of creating it manually. It uses Vagrant and Powershell Scripts to automate stuff.
 It also contain a small CTF kind of senerio.
 
 #### Lab preinstalled
@@ -15,6 +15,16 @@ It also contain a small CTF kind of senerio.
 - sysinternals installed on every system.
 
 <img src="lab.png">
+
+### Installation Script
+
+Download [this file](https://github.com/Lavender-exe/exposelab/blob/main/install-expose.sh) separately ⚠
+*Tested on Ubuntu LTS 22.04*
+
+```bash
+chmod +x install-expose.sh
+sudo ./install-expose.sh
+```
 
 ### Installation Dependencies 📋
 ---
