@@ -5,8 +5,7 @@
 ## Lab Overview 💻
 
 This lab is theamed after TV series Mr. Robot :)
-This is a fully automated Active directory Lab made with the purpose to reduce the hustle of creating it manually. It uses Vagrant and Powershell Scripts to automate stuff.
-It also contain a small CTF kind of senerio.
+This is a fully automated Active Directory Lab made with the purpose to reduce the hustle of creating it manually. It uses Vagrant and Powershell Scripts to automate stuff. It also contain a small CTF kind of senerio.
 
 #### Lab preinstalled
 - Active directory Services.
@@ -136,7 +135,7 @@ Elliot | N0t-F0uND
 
 ## Thing can be done manually
 
-Run the remove-vagrant.ps1 as a Different user not as vagrant
+Run the `remove-vagrant.ps1` as a Different user not as vagrant
 
 or 
 
@@ -165,7 +164,7 @@ vagrant destroy
 ---
 ## Troubleshooting  ⚒
 
-Network  Troubleshooting
+Network Troubleshooting
 
 Setting virtual box Networks
 ```sh
