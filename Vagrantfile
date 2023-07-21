@@ -39,6 +39,7 @@ Vagrant.configure("2") do |cfg|
   cfg.vm.define "workstation2" do |config| 
     config.vm.box = "rgl/windows-10-1809-enterprise-amd64"
     config.vm.network "private_network", ip:  "10.10.10.102" 
+    config.vm.boot_timeout = 1800
     config.winrm.transport = :plaintext
     config.winrm.basic_auth_only = true
     config.winrm.retry_limit = 30
@@ -67,6 +68,7 @@ Vagrant.configure("2") do |cfg|
   cfg.vm.define "workstation1" do |config| 
       config.vm.box = "rgl/windows-10-1809-enterprise-amd64"
       config.vm.network "private_network", ip:  "10.10.10.101"  
+      config.vm.boot_timeout = 1800
       config.winrm.transport = :plaintext
       config.winrm.basic_auth_only = true
       config.winrm.retry_limit = 30
