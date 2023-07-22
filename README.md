@@ -15,18 +15,17 @@ This is a fully automated Active Directory Lab made with the purpose of reducing
 
 <img src="lab.png">
 
-### Installation Script
-
-Download [this file](https://github.com/Lavender-exe/exposelab/blob/main/install-expose.sh) separately ⚠
+### Installation Script by [@Lavender-exe](https://github.com/Lavender-exe)
+separately ⚠
 *Tested on Ubuntu LTS 22.04*
-
 ```bash
 chmod +x install-expose.sh
 sudo ./install-expose.sh
 ```
 
+## Manual Installation
+
 ### Installation Dependencies 📋
----
 #### Virtual Box
 
 Latest Version
