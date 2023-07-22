@@ -5,7 +5,7 @@
 ## Lab Overview 💻
 
 This lab is theamed after TV series Mr. Robot :)
-This is a fully automated Active Directory Lab made with the purpose to reduce the hustle of creating it manually. It uses Vagrant and Powershell Scripts to automate stuff. It also contain a small CTF kind of senerio.
+This is a fully automated Active Directory Lab made with the purpose of reducing the hassle of creating it manually. It uses Vagrant and Powershell Scripts to automate stuff. It also contain a small CTF kind of senerio.
 
 #### Lab preinstalled
 - Active directory Services.
